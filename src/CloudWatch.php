@@ -2,7 +2,7 @@
 
 namespace IntelligentsNL\GuzzleRequestMonitor;
 
-use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Facades\Log;
 
 class CloudWatch extends Destination
 {
